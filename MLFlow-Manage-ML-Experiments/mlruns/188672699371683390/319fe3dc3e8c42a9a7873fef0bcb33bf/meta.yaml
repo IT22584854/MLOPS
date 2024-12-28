@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shehanrashmika/Desktop/MLOPS%20/MLFlow-Manage-ML-Experiments/mlruns/188672699371683390/319fe3dc3e8c42a9a7873fef0bcb33bf/artifacts
+end_time: 1735373538697
+entry_point_name: ''
+experiment_id: '188672699371683390'
+lifecycle_stage: active
+run_id: 319fe3dc3e8c42a9a7873fef0bcb33bf
+run_name: calm-cod-681
+run_uuid: 319fe3dc3e8c42a9a7873fef0bcb33bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735373537279
+status: 3
+tags: []
+user_id: shehanrashmika

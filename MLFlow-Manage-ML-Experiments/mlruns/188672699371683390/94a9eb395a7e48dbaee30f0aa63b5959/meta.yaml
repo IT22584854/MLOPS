@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shehanrashmika/Desktop/MLOPS%20/MLFlow-Manage-ML-Experiments/mlruns/188672699371683390/94a9eb395a7e48dbaee30f0aa63b5959/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '188672699371683390'
+lifecycle_stage: active
+run_id: 94a9eb395a7e48dbaee30f0aa63b5959
+run_name: caring-swan-764
+run_uuid: 94a9eb395a7e48dbaee30f0aa63b5959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735014961870
+status: 1
+tags: []
+user_id: shehanrashmika

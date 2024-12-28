@@ -1,0 +1,12 @@
+name: Loan_prediction
+
+conda_env: conda.yaml #include evironment depedancies that need to execute mlflow project
+
+entry_points:  # include the commands that need to be executed in the conda environment
+  main:      #this field and below field is mandetory 
+    command: "python loan_prediction_model.py"
+
+
+
+
+#   https://mlflow.org/docs/latest/projects.html#mlproject-file:~:text=Running%20Projects.-,MLproject%20File,and%20parameters%20to%20pass%20to%20the%20command%20(including%20data%20types).,-Specifying%20an%20Environment
